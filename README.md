@@ -9,11 +9,11 @@
 
 ## 🤿 Novamente participando de uma imersão da Alura! 
 
-*Agora mergulhando em Inteligência Artificial aplicada na [`Imersão IA`](https://www.alura.com.br/imersao-ia) da [`Alura`](https://www.alura.com.br/). Explorando ferramentas como o ChatGPT e o Bing.AI, que podem vir a me ajudar em atividades do dia-a-dia, aprendendo o impacto que essas tecnologia vem trazendo ao mundo e descobrindo como aplicá-las de forma relevante.*
+*Agora mergulhando em Inteligência Artificial aplicada na [`Imersão IA`](https://www.alura.com.br/imersao-ia) da [`Alura`](https://www.alura.com.br/). Explorando ferramentas como o ChatGPT e o Bing.AI, que podem vir a me ajudar em atividades do dia-a-dia, aprendendo o impacto que essas tecnologias vem trazendo ao mundo e descobrindo como aplicá-las de forma relevante.*
 
 ## 🤖 Aula 01 | Explorando a IA: Ferramentas e Possibilidades
 
-Nesta aula utilizei o ChatGPT para fazer dois jogos, um jogo de adivinhação de palavras e um jogo de adivinhação de filmes, acredito que por ter fornecido um prompt não tão detalhado, o primeiro jogo foi um desastre, apenas após eu fornecer as letras que haviam na palavra que o ChatGPT conseguiu acertar, já no segundo jogo, após fazer perguntar mais específicas de acordo com o meu prompt, o ChatGPT conseguiu adivinhar em qual filme eu estava pensando!
+Nesta aula utilizei o ChatGPT para fazer dois jogos, um jogo de adivinhação de palavras e um jogo de adivinhação de filmes, acredito que por ter fornecido um prompt não tão detalhado, o primeiro jogo foi um desastre, apenas após eu fornecer as letras que haviam na palavra que o ChatGPT conseguiu acertar, já no segundo jogo, após fazer perguntas mais específicas de acordo com o prompt fornecido, o ChatGPT conseguiu adivinhar em qual filme eu estava pensando!
 
 ### Resultado:
 
