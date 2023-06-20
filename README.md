@@ -13,7 +13,7 @@
 
 ## 🤖 Aula 01 | Explorando a IA: Ferramentas e Possibilidades
 
-Nesta aula utilizei o ChatGPT para fazer dois jogos, um jogo de adivinhação de palavras e um jogo de adivinhação de filmes, acredito que por ter fornecido um prompt não tão detalhado, o primeiro jogo foi um desastre, apenas após eu fornecer as letras que haviam na palavra que o ChatGPT conseguiu acertar, já no segundo jogo, após fazer perguntas mais específicas de acordo com o prompt fornecido, o ChatGPT conseguiu adivinhar em qual filme eu estava pensando!
+Nesta aula utilizei o ChatGPT para fazer dois jogos, um jogo de adivinhação de palavras e um jogo de adivinhação de filmes, acredito que por ter fornecido um prompt não tão detalhado, o primeiro jogo foi um desastre, apenas após destacar as letras que haviam na palavra, que o ChatGPT conseguiu adivinhar, já no segundo jogo, após fazer perguntas mais específicas de acordo com o prompt fornecido, o ChatGPT conseguiu adivinhar em qual filme eu estava pensando!
 
 ### Resultado:
 
