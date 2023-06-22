@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YannMartins/imersaoIA/assets/102706324/6dda9b47-1e42-4f04-ba4a-0a49690030dd.png">
+  <img src="https://github.com/YannMartins/imersaoIA/assets/102706324/4e91e120-af0e-410b-94b1-8cad58f00aa3">
 </p>
 <p align="center">
   <h1 align="center">Imersão IA</h1>
