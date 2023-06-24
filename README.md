@@ -34,7 +34,7 @@ Nesse desafio foram geradas 10 crítica variadas para diversos filmes, em seguid
 
 #### Desafio 2 - Sugira descrições de imagens para serem inseridas em outras IA's
 
-No segundo desafio foi utilizado o ChatGPT para sugerir descrições de imagens que iriam ser utilizadas posteriormente para criar imagens com estilos variados em outra inteligência artifical.
+No segundo desafio foi utilizado o ChatGPT para sugerir descrições de imagens que iriam ser utilizadas posteriormente para criar imagens com estilos variados em outra inteligência artifical, sendo ela a Stable Diffusion.
 
   Nº  | Estilo   | Descrição
   -------- | -------- | --------
