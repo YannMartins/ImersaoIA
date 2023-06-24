@@ -22,19 +22,19 @@ Nesta aula utilizei o ChatGPT para fazer dois jogos, um jogo de adivinhação de
 
 ## 🤖 Aula 02 | GPT no seu Trabalho: Fluxo e Dados
 
-Após conhecer as ferramentas em que iriamos utilizar, foi dado início a descoberta, visualizando o potencial do ChatGPT para arquivos mais complexos como planilhas, JSON e CSV. Conhecimento que foi necessário para concluir os desafios que foram feitos no material da própria aula.
+Após conhecer as ferramentas que iriamos utilizar, foi dado início a descoberta, visualizando o potencial do ChatGPT para arquivos mais complexos e o aplicando em planilhas, JSON e CSV. Conhecimento que foi necessário para concluir os desafios que foram propostos no material da própria aula.
 
 ### Resultados:
 
 #### Desafio 1 - Crie 10 críticas variadas para filmes
 
-Nesse desafio foram geradas 10 crítica variadas para diversos filmes, em seguida a resposta foi convertida em formato CSV e importadas para a plataforma do Google Sheets.
+Nesse desafio foi necessário gerar 10 críticas variadas para filmes diversificados, em seguida a resposta foi convertida em formato CSV e importadas para a plataforma do Google Sheets.
 
 ![S2](https://github.com/YannMartins/imersaoIA/assets/102706324/e04dd425-9663-4556-a2cd-2988add725e0)
 
 #### Desafio 2 - Sugira descrições de imagens para serem inseridas em outras IA's
 
-No segundo desafio foi utilizado o ChatGPT para sugerir descrições de imagens que iriam ser utilizadas posteriormente para criar imagens com estilos variados em outra inteligência artifical, sendo ela a Stable Diffusion.
+No segundo desafio foi utilizado o ChatGPT para sugerir descrições de imagens que iriam ser inseridas posteriormente em outra IA, com o intuito de criar imagens com estilos variados, a IA que foi utilizada para gerar as imagens foi a Stable Diffusion.
 
   Nº  | Estilo   | Descrição
   -------- | -------- | --------
@@ -48,7 +48,7 @@ No segundo desafio foi utilizado o ChatGPT para sugerir descrições de imagens 
 
 #### Desafio 3 - Calcule a média salarial de pessoas com o Google Sheets e o ChatGPT
 
-No terceiro desafio, foi usado o GPTLIST() no Google Sheets, a partir da extensão SheetGPT, foram gerados 20 nomes de pessoas brasileira, suas respectivas áreas de atuação e valoras de salários aleatórios entre 1.000 e 20.0000.
+No terceiro desafio, a partir da extensão SheetGPT, foi usado o comando GPTLIST() no Google Sheets, onde foram gerados 20 nomes aleatórios de pessoas brasileiras na coluna A, suas respectivas áreas de atuação na coluna B, e valoras de salários aleatórios entre 1.000 e 20.0000 reais na coluna C.
 
 ![10](https://github.com/YannMartins/imersaoIA/assets/102706324/f84c5c9c-4134-4a0d-8e3f-11d8c8495f46)
 
