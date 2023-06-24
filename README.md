@@ -52,7 +52,7 @@ No terceiro desafio, foi usado o GPTLIST() no Google Sheets, a partir da extens�
 
 ![10](https://github.com/YannMartins/imersaoIA/assets/102706324/f84c5c9c-4134-4a0d-8e3f-11d8c8495f46)
 
-Após formular a tabela, pedi para o ChatGPT criar um macro baseado na minha planilha do Google Sheets, em que seria calculado a média dos salários da coluna C, mostrando o resultado na célula D2.
+Após formular a tabela, pedi para o ChatGPT criar um macro baseado na minha planilha do Google Sheets, em que seria calculado a média dos salários da coluna C, mostrando o resultado na célula D2, como podemos ver na imagem acima.
 
 ![S8](https://github.com/YannMartins/imersaoIA/assets/102706324/ff1bcbad-e0c2-4be2-83ac-32290357cbb6)
 ![S9](https://github.com/YannMartins/imersaoIA/assets/102706324/e907f084-1d08-4ea9-903f-4a3c18325bf1)
