@@ -9,13 +9,13 @@
 
 ## 🤿 Novamente participando de uma imersão da Alura! 
 
-*Agora mergulhando em Inteligência Artificial aplicada na [`Imersão IA`](https://www.alura.com.br/imersao-ia) da [`Alura`](https://www.alura.com.br/). Explorando ferramentas como o ChatGPT e o Bing.AI, que podem vir a me ajudar em atividades do dia-a-dia, aprendendo o impacto que essas tecnologias vem trazendo ao mundo e descobrindo como aplicá-las de forma relevante.*
+*Agora mergulhando em Inteligência Artificial aplicada na [`Imersão IA`](https://www.alura.com.br/imersao-ia) da [`Alura`](https://www.alura.com.br/). Explorando ferramentas como o ChatGPT e o Bing.AI, que podem vir a me ajudar em atividades do dia a dia, aprendendo sobre o impacto que essas tecnologias vem trazendo ao mundo e descobrindo como aplicá-las de forma relevante.*
 
 ## 🤖 Aula 01 | Explorando a IA: Ferramentas e Possibilidades
 
 Nesta aula utilizei o ChatGPT para fazer dois jogos, um jogo de adivinhação de palavras e um jogo de adivinhação de filmes, acredito que por ter fornecido um prompt não tão detalhado, o primeiro jogo foi um desastre, apenas após destacar as letras que haviam na palavra, que o ChatGPT conseguiu adivinhar, já no segundo jogo, após fazer perguntas mais específicas de acordo com o prompt fornecido, o ChatGPT conseguiu adivinhar em qual filme eu estava pensando!
 
-### Resultado:
+### Resultados:
 
 ![image](https://github.com/YannMartins/imersaoIA/assets/102706324/19766e93-d762-4802-974b-d0e46ed556fe)
 ![image](https://github.com/YannMartins/imersaoIA/assets/102706324/b0a906fc-7942-4053-9bf0-a29030669545)
@@ -28,7 +28,7 @@ Após conhecer as ferramentas que iriamos utilizar, foi dado início a descobert
 
 #### Desafio 1 - Crie 10 críticas variadas para filmes
 
-Nesse desafio foi necessário gerar 10 críticas variadas para filmes diversificados, em seguida a resposta foi convertida em formato CSV e importadas para a plataforma do Google Sheets.
+Nesse desafio foi necessário gerar 10 críticas variadas para filmes diversificados, em seguida a resposta foi convertida em formato CSV e importada para a plataforma do Google Sheets.
 
 ![S2](https://github.com/YannMartins/imersaoIA/assets/102706324/e04dd425-9663-4556-a2cd-2988add725e0)
 
@@ -48,7 +48,7 @@ No segundo desafio foi utilizado o ChatGPT para sugerir descrições de imagens 
 
 #### Desafio 3 - Calcule a média salarial de pessoas com o Google Sheets e o ChatGPT
 
-No terceiro desafio, a partir da extensão SheetGPT, foi usado o comando GPTLIST() no Google Sheets, onde foram gerados 20 nomes aleatórios de pessoas brasileiras na coluna A, suas respectivas áreas de atuação na coluna B, e valoras de salários aleatórios entre 1.000 e 20.0000 reais na coluna C.
+No terceiro desafio, a partir da extensão SheetGPT, foi usado o comando GPTLIST() no Google Sheets, onde foram gerados 20 nomes aleatórios de pessoas brasileiras na coluna A, suas respectivas áreas de atuação na coluna B, e valoras de salários aleatórios entre 1.000 e 20.000 reais na coluna C.
 
 ![10](https://github.com/YannMartins/imersaoIA/assets/102706324/f84c5c9c-4134-4a0d-8e3f-11d8c8495f46)
 
@@ -79,4 +79,26 @@ Contendo 3 acertos e 2 erros, pedi para o ChatGPT reformular os resultados que d
 
 No caso percebe-se uma certa dificuldade do ChatGPT em fazer cálculos com diversos números que possuem várias casas decimais.
 
+## 🤖 Aula 04 | Tarefas em Planilhas com IA e APIs
 
+Explorando cada vez mais as ferramentas de inteligência artificial, com foco, principalmente, em planilhas e macros. Aprendendo ainda mais sobre a API do GPT, buscando automatizar e otimizar cada vez mais o meu trabalho.
+
+### Resultados:
+
+Nos desafios disponibilizados no material da Aula 4, aprendi sobre Tokenização, explorando o padrão que o ChatGPT utiliza para gerar um texto a partir do GPT-Tokenizer, como podemos ver abaixo:
+
+![S2](https://github.com/YannMartins/imersaoIA/assets/102706324/e6a94d08-4786-4528-bd67-e22f2bf93efe)
+
+Além disso, utilizando o Playground OpenAI, pude experimentar diferentes formulações de texto a partir da definição de temperatura, onde pode-se visualizar e analisar as diferenças que isso gera:
+
+*Texto 1 (temperatura 1):*
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/70814515-0413-4e1c-9d99-b33a3c71fa2d)
+
+*Texto 2 (temperatura 2):*
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/e332d719-ef18-4674-9d6a-0d7b3c440483)
+
+*Texto 3 (temperatura 0):*
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/10fa04fa-351f-4332-98be-b58d2d75c73e)
