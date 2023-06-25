@@ -67,14 +67,16 @@ Explorando a Engenharia de Prompt e aprendendo sobre as suas principais técnica
 
 ![image](https://github.com/YannMartins/imersaoIA/assets/102706324/9defeb8e-c81f-46a4-88cf-a75aeee35dc6)
 
-Utilizando a tabela acima e reformulando diversas vezes o prompt para gerar os resultados no ChatGPT, o resultado mais próximo que eu consegui foi o abaixo:
+Utilizando a tabela acima e reformulando diversas vezes o prompt para gerar os resultados no ChatGPT, o prompt final utilizado foi este demonstrado abaixo:
 
 ![image](https://github.com/YannMartins/imersaoIA/assets/102706324/a835f19b-a028-4db0-9905-fbc38cd3eeb6)
 
-No qual gerou os seguintes resultados:
+No qual gerou os seguintes valores:
 
 ![image](https://github.com/YannMartins/imersaoIA/assets/102706324/8652e4be-4fb7-45f2-9daf-857d75ca3677)
 
-Contendo 3 acertos e 2 erros, pedi para o ChatGPT reformular os resultados que deram divergentes dos valores de conferência fornecidos na própria planilha, no entanto, mesmo especificando a questão e pedindo para refazer com o passo a passo, as respostas chegavam somente a se aproximar. Percebendo uma certa dificuldade em fazer cálculos com diversos números com várias casas decimais.
+Contendo 3 acertos e 2 erros, pedi para o ChatGPT reformular os resultados que deram divergentes dos valores de conferência fornecidos na própria planilha, no entanto, mesmo especificando a questão e pedindo para refazer com o passo a passo, as respostas chegavam somente a se aproximar. 
+
+No caso percebe-se uma certa dificuldade do ChatGPT em fazer cálculos com diversos números que possuem várias casas decimais.
 
 
