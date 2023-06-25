@@ -57,3 +57,24 @@ Após formular a tabela, pedi para o ChatGPT criar um macro baseado na minha pla
 ![S8](https://github.com/YannMartins/imersaoIA/assets/102706324/ff1bcbad-e0c2-4be2-83ac-32290357cbb6)
 ![S9](https://github.com/YannMartins/imersaoIA/assets/102706324/e907f084-1d08-4ea9-903f-4a3c18325bf1)
 
+## 🤖 Aula 03 | Engenharia de Prompt para Terefas Complexas
+
+Explorando a Engenharia de Prompt e aprendendo sobre as suas principais técnicas e como utilizá-las, procurando aprimorar o meu domínio do funcionamento do algoritmo do ChatGPT. Utilizando da planilha disponilizada no material da aula 3, tentei calcular o valor do imposto de renda de 20 indivíduos, com as seguintes condições:
+
+`Considere que pessoas com rendimento de até R$20.000,00 pagam 10% de imposto, pessoas com rendimento entre R$20.000,00 e R$40.000,00 pagam 20% de imposto, e pessoas com rendimento acima de R$40.000,00 pagam 30% de imposto.`
+
+### Resultado:
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/9defeb8e-c81f-46a4-88cf-a75aeee35dc6)
+
+Utilizando a tabela acima e reformulando diversas vezes o prompt para gerar os resultados no ChatGPT, o resultado mais próximo que eu consegui foi o abaixo:
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/a835f19b-a028-4db0-9905-fbc38cd3eeb6)
+
+No qual gerou os seguintes resultados:
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/8652e4be-4fb7-45f2-9daf-857d75ca3677)
+
+Contendo 3 acertos e 2 erros, pedi para o ChatGPT reformular os resultados que deram divergentes dos valores de conferência fornecidos na própria planilha, no entanto, mesmo especificando a questão e pedindo para refazer com o passo a passo, as respostas chegavam somente a se aproximar. Percebendo uma certa dificuldade em fazer cálculos com diversos números com várias casas decimais.
+
+
