@@ -121,4 +121,21 @@ Podemos ver abaixo o resultado:
 
 #### Desafio 2 - Análise automática de currículos
 
+Já no segundo desafio, a plataforma Zapier estava informando que o PDF.co, que é utilizado no enunciado do desafio, não está disponível como trigger, impossibilitando de finalizar o desafio no momento.
 
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/5961b052-c782-4069-9c15-adde51ebb8f9)
+
+Mesmo utilizando os próprios atalhos fornecidos no site PDF.co, o campo de Event ainda fica indisponível, no qual o sistema me impede de prosseguir, pois o mesmo se trata de um campo obrigatório.
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/272cfb1a-f542-4a05-8a44-bf2dc87532fc)
+
+## 🌅 FIM! 
+
+<p align="center">
+  <img src="https://github.com/YannMartins/imersaoIA/assets/102706324/f2e7b0f9-fe9c-4e82-bcec-213651505132">
+</p>
+
+## 👨🏾‍💻 Autor
+
+| [<img src="https://user-images.githubusercontent.com/102706324/228234163-a0616b0f-c2d2-48d8-8fc6-ce4e8b2cb17c.jpeg" width=115><br><sub>Yann Martins de Sousa</sub>](https://github.com/YannMartins) |  
+| :---: |
