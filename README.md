@@ -105,13 +105,14 @@ Além disso, utilizando o Playground OpenAI, pude experimentar diferentes formul
 
 ## 🤖 Aula 05 | Fluxo de Trabalho: Automação Nocode
 
-Aprendendo sobre o conceito de "No-code"! Através da ferramente Zapier é possível criar automações sem nenhuma linha de código, podendo utilizar as principais redes sociais do momento, como Gmail, Twitter e Instagram. Com o Zapier nós criamos uma automação capaz de responder e-mails de forma automática.
+Aprendendo sobre o conceito de "No-code"! 
+Através da ferramente Zapier é possível criar automações sem nenhuma linha de código, podendo utilizar, diretamente, até mesmo as principais redes sociais do mundo, como Gmail, Twitter e Instagram, ao nosso favor.
 
 ### Resultados:
 
 #### Desafio 1 - Automação de categorização de tweets em uma planilha do Google Sheets
 
-Através do Zapier eu criei vários "Zaps", o primeiro utilizei o Twitter como um trigger para o funcionamento do processo, onde nesse gatilho seria selecionado um tweet com a seguinte hashtag: #ImersaoIA, em seguida criei outro Zap direcionando o ChatGPT a gerar um comentário relacionado ao tweet em questão, e por fim um Zap gerando essas informações em uma planilha do Google Sheets que eu já havia criado.
+Através do Zapier eu criei vários "Zaps", no primeiro Zap utilizei o Twitter como um trigger para o funcionamento do processo, onde seria selecionado um tweet com a seguinte hashtag: #ImersaoIA, em seguida criei outro Zap direcionando o ChatGPT a gerar um comentário relacionado ao tweet em questão, e por fim um Zap gerando essas informações em uma planilha do Google Sheets que eu já havia criado.
 
 ![image](https://github.com/YannMartins/imersaoIA/assets/102706324/6e9d8502-a38f-42c4-a386-383d19dcca51)
 
