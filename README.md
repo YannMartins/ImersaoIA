@@ -102,3 +102,13 @@ Além disso, utilizando o Playground OpenAI, pude experimentar diferentes formul
 *Texto 3 (temperatura 0):*
 
 ![image](https://github.com/YannMartins/imersaoIA/assets/102706324/10fa04fa-351f-4332-98be-b58d2d75c73e)
+
+## 🤖 Aula 05 | Fluxo de Trabalho: Automação Nocode
+
+Aprendendo sobre o conceito de "No-code"! Através da ferramente Zapier é possível criar automações sem nenhuma linha de código, podendo utilizar as principais redes sociais do momento, como Gmail, Twitter e Instagram. Com o Zapier nós criamos uma automação capaz de responder e-mails de forma automática.
+
+### Resultados:
+
+#### Desafio 1 - Automação de categorização de tweets em uma planilha do Google Sheets
+
+#### Desafio 2 - Análise automática de currículos
