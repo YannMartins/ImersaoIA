@@ -111,4 +111,14 @@ Aprendendo sobre o conceito de "No-code"! Através da ferramente Zapier é poss�
 
 #### Desafio 1 - Automação de categorização de tweets em uma planilha do Google Sheets
 
+Através do Zapier eu criei vários "Zaps", o primeiro utilizei o Twitter como um trigger para o funcionamento do processo, onde nesse gatilho seria selecionado um tweet com a seguinte hashtag: #ImersaoIA, em seguida criei outro Zap direcionando o ChatGPT a gerar um comentário relacionado ao tweet em questão, e por fim um Zap gerando essas informações em uma planilha do Google Sheets que eu já havia criado.
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/6e9d8502-a38f-42c4-a386-383d19dcca51)
+
+Podemos ver abaixo o resultado:
+
+![image](https://github.com/YannMartins/imersaoIA/assets/102706324/f54cca67-fabe-44de-b9b3-4ea7c4bfa92d)
+
 #### Desafio 2 - Análise automática de currículos
+
+
